@@ -1,0 +1,15 @@
+[project]
+name = "dtaiimagetotextnode"
+description = "Nodes: Image URL to Text, Image to Text."
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["requests"]
+
+[project.urls]
+Repository = "https://github.com/yolanother/DTAIImageToTextNode"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "DTAIImageToTextNode"
+Icon = ""
